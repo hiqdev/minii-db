@@ -23,8 +23,7 @@
         }
     ],
     "require": {
-        "minii/core": "*@dev",
-        "minii/validators": "*@dev"
+        "minii/core": "*@dev"
     },
     "autoload": {
         "psr-4": {
